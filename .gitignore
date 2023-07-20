@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Other
+*.swp
+*.swo
