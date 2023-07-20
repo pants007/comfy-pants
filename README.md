@@ -11,7 +11,7 @@ This repo contains a number of QoL nodes I made for myself that I figured I may 
 First clone the repo to your `custom_nodes` folder:
 
     cd path/to/ComfyUI/custom_nodes
-    git clone https://github.com/pants007/comfy_pants.git
+    git clone https://github.com/pants007/comfy-pants.git
 
 Then enter the repo folder and install dependencies through pip:
 
