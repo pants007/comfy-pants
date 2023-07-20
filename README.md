@@ -2,7 +2,7 @@
 This repo contains a number of QoL nodes I made for myself that I figured I may as well make available for everyone else.
 ## Nodes
 - Make Square Node
-  - Will pad an image to make it square with a chosen filling strategy
+  - Will pad an image to make it square with a chosen filling strategy. Sort of like "Resize and fill" from a1111.
 - Interrogate Node
   - Feed clip-interrogator an image and get its output as a string
 - TextEncodeAIO
